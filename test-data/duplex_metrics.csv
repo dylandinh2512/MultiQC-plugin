@@ -1,1 +1,13 @@
-
+sample,metric,value
+NanoMB1Rep1,efficiency,0.0490258329591602
+NanoMB1Rep2,efficiency,0.0595710390289437
+NanoMB2Rep1,efficiency,0.0532102590199956
+NanoMB2Rep2,efficiency,0.0609705856236683
+NanoMB3Rep1,efficiency,0.0518375289423201
+NanoMB3Rep2,efficiency,0.0486932782459005
+NanoMB1Rep1,drop-out-rate,0.320805646128878
+NanoMB1Rep2,drop-out-rate,0.269906563855623
+NanoMB2Rep1,drop-out-rate,0.308223211703645
+NanoMB2Rep2,drop-out-rate,0.27041273712015
+NanoMB3Rep1,drop-out-rate,0.33572540580079
+NanoMB3Rep2,drop-out-rate,0.341786526055163
