@@ -1,0 +1,3 @@
+sp:
+  mymodule:
+    fn_re: '*.[ct]sv'
